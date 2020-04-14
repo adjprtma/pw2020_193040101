@@ -1,0 +1,20 @@
+.container {
+    text-align : center;
+}
+
+.gambar {
+    margin: auto;
+    position: relative;
+}
+
+.gambar img {
+    width: 420px;
+}
+
+.keterangan {
+    font-style: italic;
+}
+
+footer {
+    padding: 1px 0;
+}
