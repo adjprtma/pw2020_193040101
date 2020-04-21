@@ -21,7 +21,7 @@
 
     <!-- my CSS -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Latihan 5c</title>
+    <title>ADJI*PHONE-SHOP</title>
 </head>
 <body>
     <!-- Navbar -->

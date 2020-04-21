@@ -27,7 +27,7 @@
             <tr>
                 <th>NO</th>
                 <th>GAMBAR</th>
-                <th>TYPE</th>
+                <th>TIPE</th>
                 <th>PROCESSOR</th>
                 <th>RAM</th>
                 <th>ROM</th>
@@ -39,7 +39,7 @@
             <tr>
                 <td><?= $i; ?></td>
                 <td><img src="assets/img/<?= $row["gambar"]; ?>"></td>
-                <td><?= $row["type"];?></td>
+                <td><?= $row["tipe"];?></td>
                 <td><?= $row["processor"];?></td>
                 <td><?= $row["ram"];?></td>
                 <td><?= $row["rom"];?></td>

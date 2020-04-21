@@ -21,7 +21,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Latihan 5c</title>
+    <title>Detail</title>
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
@@ -52,7 +52,7 @@
             <p>BATTERY : <?= $handphone["battery"]; ?></p>
             <p>HARGA : RP.<?= $handphone["harga"]; ?></p>
         </div>
-        <button class="tombol-kembali"><a href="../index.php">Kembali</a></button>
+        <button class="tombol-kembali"><a href="../index.php">KEMBALI</a></button>
     </div>
 
      <!-- footer -->

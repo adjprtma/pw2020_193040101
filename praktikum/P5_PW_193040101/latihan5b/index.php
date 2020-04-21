@@ -31,7 +31,7 @@
                 <tr>
                     <th>NO</th>
                     <th>GAMBAR</th>
-                    <th>TYPE</th>
+                    <th>TIPE</th>
                     <th>PROCESSOR</th>
                     <th>RAM</th>
                     <th>ROM</th>
@@ -43,7 +43,7 @@
                 <tr>
                     <td><?= $i; ?></td>
                     <td><img src="assets/img/<?= $hp["gambar"] ?>"></td>
-                    <td><?= $hp["type"] ?></td>
+                    <td><?= $hp["tipe"] ?></td>
                     <td><?= $hp["processor"] ?></td>
                     <td><?= $hp["ram"] ?></td>
                     <td><?= $hp["rom"] ?></td>
