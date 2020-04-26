@@ -50,7 +50,7 @@ if (isset($_POST['ubah'])) {
                             <input type="text" name="gambar" id="gambar" required value="<?= $hp['gambar']; ?>">
                         </div>
                         <div class="input-field">
-                            <label for="type">Tipe :</label>
+                            <label for="tipe">Tipe :</label>
                             <input type="text" name="tipe" id="tipe" required value="<?= $hp['tipe']; ?>">
                         </div>
                         <div class="input-field">

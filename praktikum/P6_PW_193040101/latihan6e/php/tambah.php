@@ -46,7 +46,7 @@ if (isset($_POST['tambah'])) {
                             <input type="text" name="gambar" id="gambar" required>
                         </div>
                         <div class="input-field">
-                            <label for="type">Tipe :</label>
+                            <label for="tipe">Tipe :</label>
                             <input type="text" name="tipe" id="tipe" required>
                         </div>
                         <div class="input-field">
