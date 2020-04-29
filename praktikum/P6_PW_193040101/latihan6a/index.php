@@ -34,11 +34,11 @@
     <!-- Data -->
     <div class="container">
         <?php foreach ($handphone as $hp) : ?>
-            <p class="type">
+            <p class="tipe">
                 <div class="collection">
-                <a href="php/detail.php?id=<?= $hp['id'] ?>"class="collection-item">
-                    <?= $hp["tipe"] ?>
-                </a>
+                    <a href="php/detail.php?id=<?= $hp['id'] ?>"class="collection-item">
+                        <?= $hp["tipe"] ?>
+                    </a>
                 </div>
             </p>
         <?php endforeach; ?>
