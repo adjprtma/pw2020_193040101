@@ -1,0 +1,36 @@
+.container {
+    text-align : center;
+}
+
+.gambar {
+    margin: auto;
+    position: relative;
+}
+
+.gambar img {
+    width: 420px;
+}
+
+.keterangan {
+    font-style: italic;
+}
+
+footer {
+    padding: 1px 0;
+}
+
+.latar {
+    background : linear-gradient(to right,white,white,white,rgb(5, 160, 250));
+}
+
+button {
+    margin: 5px;
+}
+
+.slider h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+h5 {
+    text-align: center;
+}
