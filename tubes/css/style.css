@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+body,button {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.container {
+    text-align : center;
+}
+
+.gambar {
+    margin: auto;
+    position: relative;
+}
+
+.gambar img {
+    width: 420px;
+}
+
+footer {
+    padding: 1px 0;
+}
+
+button {
+    margin: 5px;
+}
+
+.slider h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+h5 {
+    text-align: center;
+}
