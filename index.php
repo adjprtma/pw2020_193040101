@@ -123,7 +123,7 @@
                 <div class="face face1">
                     <div class="content">
                         <h5>Kuliah</h5>
-                        <a href="kuliah" target="_blank">Click To See</a>
+                        <a href="kuliah" target="_blank">Kuliah</a>
                     </div>
                 </div>
                 <div class="face face2">
@@ -135,19 +135,52 @@
                 <div class="face face1">
                     <div class="content">
                         <h5>Praktikum</h5>
-                        <a href="praktikum" target="_blank">Click To See</a>
+                        <a href="praktikum/P5_PW_193040101/latihan5a" target="_blank">Latihan 5A</a>
+                        <a href="praktikum/P5_PW_193040101/latihan5b" target="_blank">Latihan 5B</a>
+                        <a href="praktikum/P5_PW_193040101/latihan5c" target="_blank">Latihan 5C</a>
                     </div>
                 </div>
                 <div class="face face2">
-                    <h5>Praktikum</h5>
+                    <h5>Modul 5</h5>
                 </div>
             </div>
 
             <div class="card">
                 <div class="face face1">
                     <div class="content">
-                        <h5>Tubes</h5>
-                        <a href="tubes" target="_blank">Click To See</a>
+                        <h5>Praktikum</h5>
+                        <a href="praktikum/P6_PW_193040101/latihan6a" target="_blank">Latihan 6A</a>
+                        <a href="praktikum/P6_PW_193040101/latihan6b" target="_blank">Latihan 6B</a>
+                        <a href="praktikum/P6_PW_193040101/latihan6c" target="_blank">Latihan 6C</a>
+                        <a href="praktikum/P6_PW_193040101/latihan6d" target="_blank">Latihan 6D</a>
+                        <a href="praktikum/P6_PW_193040101/latihan6e" target="_blank">Latihan 6E</a>
+                        <a href="praktikum/P6_PW_193040101/tugas" target="_blank">Tugas</a>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <h5>Modul 6</h5>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="face face1">
+                    <div class="content">
+                        <h5>Praktikum</h5>
+                        <a href="praktikum/P7_PW_193040101/latihan7a" target="_blank">Latihan 7A</a>
+                        <a href="praktikum/P7_PW_193040101/latihan7b" target="_blank">Latihan 7B</a>
+                        <a href="praktikum/P7_PW_193040101/latihan7c" target="_blank">Latihan 7C</a>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <h5>Modul 7</h5>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="face face1">
+                    <div class="content">
+                        <h5>Tugas Besar</h5>
+                        <a href="tubes" target="_blank">Tugas Besar</a>
                     </div>
                 </div>
                 <div class="face face2">
