@@ -122,18 +122,6 @@
             <div class="card">
                 <div class="face face1">
                     <div class="content">
-                        <h5>Kuliah</h5>
-                        <a href="kuliah" target="_blank">Kuliah</a>
-                    </div>
-                </div>
-                <div class="face face2">
-                    <h5>Kuliah</h5>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="face face1">
-                    <div class="content">
                         <h5>Praktikum</h5>
                         <a href="praktikum/P5_PW_193040101/latihan5a" target="_blank">Latihan 5A</a>
                         <a href="praktikum/P5_PW_193040101/latihan5b" target="_blank">Latihan 5B</a>
